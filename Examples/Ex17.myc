@@ -1,0 +1,7 @@
+float castToFloat (float x) {
+   return x;
+   }
+
+int main() {
+   return castToFloat(1);
+   }
